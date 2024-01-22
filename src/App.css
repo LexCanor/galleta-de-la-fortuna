@@ -58,7 +58,7 @@ h1 {
 }
 
 .phraseAuthor {
-  background-image: url(../public/assets/rectangle1.svg);
+  background-image: url(../assets/rectangle1.svg);
   background-size: cover;
   color: #4b4b4b;
   padding: 75px 135px;
