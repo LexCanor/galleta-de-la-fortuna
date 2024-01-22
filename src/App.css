@@ -43,7 +43,6 @@ h1 {
 
 .app {
   min-height: 100vh;
-  /*background-image: url('../public/assets/fondo4.jpg');*/
   background-position: center;
   background-size: cover;
 }
@@ -58,7 +57,7 @@ h1 {
 }
 
 .phraseAuthor {
-  background-image: url(../assets/rectangle1.svg);
+  background-image: url(../public/assets/rectangle1.svg );
   background-size: cover;
   color: #4b4b4b;
   padding: 75px 135px;
